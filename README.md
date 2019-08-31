@@ -1,5 +1,5 @@
 # Mirrors
-"Mirrors" is a Windows desktop application that shows how light bounces off of mirrors and windows. Created with C++.
+"Mirrors" is a Windows desktop application that shows how light bounces off of mirrors and windows.
 
 ![Mirrors Demo](demo/demo.gif)
 
